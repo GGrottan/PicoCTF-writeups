@@ -15,4 +15,7 @@ it contains ASCII text:
 
 Using the ´cat´ command (as implied by the name of the challenge), we can read the contents of the file, and retrieve the flag:
 
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/General%20skills/Obedient%20Cat/img/flag.png)
+
+
 
