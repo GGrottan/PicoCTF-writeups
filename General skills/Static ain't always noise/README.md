@@ -11,5 +11,6 @@ we actually receive the flag 🚩 in plantext, without even having to use the pr
 
 ![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/General%20skills/Static%20ain't%20always%20noise/img/strings.png)
 
-The provided bash script essentially does the same thing for us, where the output looks a little nicer and more structured.
+The provided bash script essentially does the same thing for us, where the output looks a little nicer and more structured. 
+This means that it is probably a practice task to get familiar with the `chmod +x` command, and how we can pass files to scripts.
 
