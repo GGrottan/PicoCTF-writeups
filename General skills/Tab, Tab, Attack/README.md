@@ -12,7 +12,7 @@ My suspicion seems to be correct, and it seems like this challenge is meant to t
 By repeatedly pressing `TAB` until there are no more directories to move into, an executable called `fang-of-haynekhtnamet` is present.
 Executing this file gives us the flag 🚩. I stored the results of the output to a file called `flag.txt` in the main directory:
 
-![](flag)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/General%20skills/Tab%2C%20Tab%2C%20Attack/img/flag.png)
 
 
 
