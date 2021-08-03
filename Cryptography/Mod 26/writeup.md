@@ -13,6 +13,6 @@ I chose to write the results to a file since I want to keep the result:
 
 Inspecting the contents of the file, we get the plaintext of the flag 🚩:
 
-![](blurredimage)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Cryptography/Mod%2026/img/flag.png)
 
 
