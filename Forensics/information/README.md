@@ -12,13 +12,13 @@ Using **Steghide** gave no results either, as I didn't have the correct passphra
 Looking at the first hint provided in the task, it says "Look at the details of the file".
 Using **Exiftool** to view the metadata of the image, the _License_ entry looks a little odd:
 
-![](exiftool_info)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Forensics/information/img/exiftool_info.png)
 
 Since it contains a mix of uppercase and lowercase letters, and numbers, it could be base64.
 
 After grabbing the license entry, I printed the decoded result to a separate file, and upon viewing the contents of the file, the flag was revealed 🚩:
 
-![](flag)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Forensics/information/img/flag.png)
 
 
 
