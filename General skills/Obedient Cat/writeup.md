@@ -1,7 +1,7 @@
 #### Name: Obedient cat
 #### Category: General skills
 #### Description: This file has a flag in plain sight (aka "in-the-clear").
-
+ 
 Walkthrough
 -----
 This is the very first CTF task, and is more of an introduction to using the flags rather than a challenge,
