@@ -9,7 +9,7 @@ Inspecting the `static` file with `cat` gives us a lot of garbage - not surprisi
 Somewhat surprising, however, when using the `strings` command on the `static` file, 
 we actually receive the flag 🚩 in plantext, without even having to use the provided bash script:
 
-![](strings)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/General%20skills/Static%20ain't%20always%20noise/img/strings.png)
 
 The provided bash script essentially does the same thing for us, where the output looks a little nicer and more structured.
 
