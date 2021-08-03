@@ -1,9 +1,8 @@
 #### Name: Obedient cat
 #### Category: General skills
 #### Description: This file has a flag in plain sight (aka "in-the-clear").
- 
-Walkthrough
------
+#### Points: 5
+
 This is the very first CTF task, and is more of an introduction to using the flags rather than a challenge,
 but I've chosen to include it for the sake of consistency :triangular_flag_on_post:
 
