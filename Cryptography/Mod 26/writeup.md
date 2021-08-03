@@ -9,7 +9,7 @@ using a single-line command in the terminal. One option is using `echo` and `rot
 
 I chose to write the results to a file since I want to keep the result:
 
-![](imagehere)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Cryptography/Mod%2026/img/decipher.png)
 
 Inspecting the contents of the file, we get the plaintext of the flag 🚩:
 
