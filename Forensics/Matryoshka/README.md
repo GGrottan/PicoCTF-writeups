@@ -4,7 +4,9 @@
 ### Points: 30
 
 The given file for this task is named `dolls.jpg`. The first thing I did was to check whether this is actually a jpg file. 
-According to the file-command, it is not a .jpg, but a .png.
+According to the file-command, it is not a .jpg, but a .png:
+
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Forensics/Matryoshka/img/file.png)
 
 It doesn't tell us much, however, since this file is actually a .png, we cannot use Steghide to extract embedded files.
 
