@@ -22,6 +22,6 @@ At this point I was thinking of creating a script to keep extracting and unzippi
 
 Looking at the contents of this file gives us the flag! 🚩
 
-![](flag)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Forensics/Matryoshka/img/flag.jpg)
 
 
