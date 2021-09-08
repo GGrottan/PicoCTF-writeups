@@ -34,4 +34,4 @@ gagr@ubntu:~/Documents/pico/Forensics/extensions$ cp flag.txt flag.png | display
 
 The resulting image shows us the flag 🚩:
 
-![](flag)
+![](https://github.com/GGrottan/PicoCTF-writeups/blob/main/Forensics/Extensions/flag.png)
